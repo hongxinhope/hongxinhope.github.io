@@ -1,0 +1,42 @@
+# Site settings
+title: 洪鑫
+description: '知行合一，止于至善。'
+url: 'http://hongxinhope.github.io'
+baseurl: '/hongxin/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+#avatar_img_path: 'images/avatar.jpg'
+avatar_img_path: 'https://avatars3.githubusercontent.com/u/12814332'
+
+author:
+  name: '洪鑫'
+  email: hongxinhope@gmail.com
+  twitter_username: joshgerdes
+  facebook_username: joshgerdes
+  github_username:  hongxinhope
+  linkedin_username:  joshgerdes
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
