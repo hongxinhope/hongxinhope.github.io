@@ -2,7 +2,7 @@
 title: 洪鑫
 description: '知行合一，止于至善。'
 url: 'http://hongxinhope.github.io'
-baseurl: '/hongxin/'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -12,10 +12,11 @@ avatar_img_path: 'https://avatars3.githubusercontent.com/u/12814332'
 author:
   name: '洪鑫'
   email: hongxinhope@gmail.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
   github_username:  hongxinhope
-  linkedin_username:  joshgerdes
+  facebook_username: hxfield
+  twitter_username: hongxinhope
+  instagram_username: hongxinhope
+  linkedin_username:  
 
 defaults:
   -
@@ -39,4 +40,4 @@ kramdown:
   hard_wrap: false
 
 gems: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
