@@ -3,6 +3,21 @@
   
     
     <url>
+      <loc>http://hongxinhope.github.io/2016/hello-world/</loc>
+      
+        <lastmod>2016-03-14T18:07:07+08:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.5</priority>
+      
+    </url>
+    
+  
+    
+    <url>
       <loc>http://hongxinhope.github.io/2016/welcome-to-jekyll/</loc>
       
         <lastmod>2016-03-12T23:07:23+08:00</lastmod>
@@ -21,7 +36,7 @@
     <url>
       <loc>http://hongxinhope.github.io/categories/</loc>
       
-        <lastmod>2016-03-13T02:32:26+08:00</lastmod>
+        <lastmod>2016-03-14T22:18:33+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -36,7 +51,7 @@
     <url>
       <loc>http://hongxinhope.github.io/feed.xml</loc>
       
-        <lastmod>2016-03-13T02:32:26+08:00</lastmod>
+        <lastmod>2016-03-14T22:18:33+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -51,7 +66,7 @@
     <url>
       <loc>http://hongxinhope.github.io/</loc>
       
-        <lastmod>2016-03-13T02:32:26+08:00</lastmod>
+        <lastmod>2016-03-14T22:18:33+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -66,7 +81,7 @@
     <url>
       <loc>http://hongxinhope.github.io/js/main.js</loc>
       
-        <lastmod>2016-03-13T02:32:26+08:00</lastmod>
+        <lastmod>2016-03-14T22:18:33+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -83,7 +98,7 @@
     <url>
       <loc>http://hongxinhope.github.io/tags/</loc>
       
-        <lastmod>2016-03-13T02:32:26+08:00</lastmod>
+        <lastmod>2016-03-14T22:18:33+08:00</lastmod>
       
       
         <changefreq>monthly</changefreq>

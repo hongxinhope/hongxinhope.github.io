@@ -5,9 +5,28 @@
     <description>知行合一，止于至善。</description>
     <link>http://hongxinhope.github.io//</link>
     <atom:link href="http://hongxinhope.github.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 13 Mar 2016 02:32:26 +0800</pubDate>
-    <lastBuildDate>Sun, 13 Mar 2016 02:32:26 +0800</lastBuildDate>
+    <pubDate>Mon, 14 Mar 2016 22:18:33 +0800</pubDate>
+    <lastBuildDate>Mon, 14 Mar 2016 22:18:33 +0800</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>Hello World!</title>
+        <description>&lt;p&gt;Hello!&lt;/p&gt;
+
+&lt;p&gt;Welcome to my blog, I will write down the experience of learning programming here.&lt;/p&gt;
+
+&lt;p&gt;Many thanks for your support!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 Mar 2016 18:07:07 +0800</pubDate>
+        <link>http://hongxinhope.github.io//2016/hello-world/</link>
+        <guid isPermaLink="true">http://hongxinhope.github.io//2016/hello-world/</guid>
+        
+        <category>Help</category>
+        
+        
+        <category>jekyll</category>
+        
+      </item>
     
       <item>
         <title>Welcome to Jekyll!</title>
